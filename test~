@@ -1,0 +1,2 @@
+ls -l movies | grep "^d" | awk '{total=""; for (i=9;i<=NF;i++) total=total" "$i;  print total; }' | awk -F '\[|\(' '{print $1;}' | awk -F '[a-zA-Z]*Rip|[a-zA-Z]*RIP|[a-zA-Z]rip' '{print $1;}' | awk -F '[0-9]+p|DVD|dvd|BluRay' '{print $1;}' |  sed 's/\.//g' | sed 's/-//g' | sed 's/ //g' | sed 's/\(.*\)[0-9][0-9][0-9][0-9]/\1/g' | sed 's\extendedcut\\Ig' | sed 's\extended.*\\Ig' | sed 's\proper.*\\Ig' | sed 's\trilogy.*\\Ig' | sed 's\franchise.*\\Ig' | sed 's\[a-z]HD.*\\g' | sed 's\criterion\\Ig'
+
