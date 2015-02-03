@@ -3,7 +3,7 @@ Title: 12 Angry Men
 Year: 1957
 Duration: 96 min
 Rating: 8.9
-Votes: 350,050
+Votes: 350,259
 Genre: Drama
 
 
@@ -11,7 +11,7 @@ Title: 12 Years a Slave
 Year: 2013
 Duration: 134 min
 Rating: 8.2
-Votes: 304,862
+Votes: 305,271
 Genre: Biography Drama History
 
 
@@ -19,7 +19,7 @@ Title: 21 Grams
 Year: 2003
 Duration: 124 min
 Rating: 7.7
-Votes: 167,019
+Votes: 167,071
 Genre: Crime Drama Thriller
 
 
@@ -27,7 +27,7 @@ Title: A Beautiful Mind
 Year: 2001
 Duration: 135 min
 Rating: 8.2
-Votes: 473,501
+Votes: 473,829
 Genre: Biography Drama
 
 
@@ -35,7 +35,7 @@ Title: About Time
 Year: 2013
 Duration: 123 min
 Rating: 7.8
-Votes: 147,081
+Votes: 147,201
 Genre: Drama Fantasy Romance
 
 
@@ -43,7 +43,7 @@ Title: Abraham Lincoln: Vampire Hunter
 Year: 2012
 Duration: 105 min
 Rating: 6.0
-Votes: 114,759
+Votes: 114,799
 Genre: Action Fantasy Horror
 
 
@@ -51,7 +51,7 @@ Title: Adaptation.
 Year: 2002
 Duration: 81 min
 Rating: 7.7
-Votes: 127,588
+Votes: 127,617
 Genre: Comedy Drama
 
 
@@ -59,7 +59,7 @@ Title: American Beauty
 Year: 1999
 Duration: 122 min
 Rating: 8.4
-Votes: 684,265
+Votes: 684,609
 Genre: Drama
 
 
@@ -67,7 +67,7 @@ Title: American Gangster
 Year: 2007
 Duration: 176 min
 Rating: 7.8
-Votes: 292,395
+Votes: 292,472
 Genre: Biography Crime Drama
 
 
@@ -75,7 +75,7 @@ Title: American History X
 Year: 1998
 Duration: 119 min
 Rating: 8.6
-Votes: 640,673
+Votes: 640,970
 Genre: Crime Drama
 
 
@@ -83,7 +83,7 @@ Title: American Hustle
 Year: 2013
 Duration: 138 min
 Rating: 7.3
-Votes: 286,184
+Votes: 286,420
 Genre: Crime Drama
 
 
@@ -91,7 +91,7 @@ Title: American Psycho
 Year: 2000
 Duration: 102 min
 Rating: 7.6
-Votes: 299,819
+Votes: 299,960
 Genre: Crime Drama
 
 
@@ -99,7 +99,7 @@ Title: Anchorman: The Legend of Ron Burgundy
 Year: 2004
 Duration: 98 min
 Rating: 7.3
-Votes: 226,425
+Votes: 226,521
 Genre: Comedy
 
 
@@ -107,7 +107,7 @@ Title: Anna Karenina
 Year: 2012
 Duration: 129 min
 Rating: 6.6
-Votes: 57,180
+Votes: 57,215
 Genre: Drama Romance
 
 
@@ -115,7 +115,7 @@ Title: Annie Hall
 Year: 1977
 Duration: 93 min
 Rating: 8.1
-Votes: 158,372
+Votes: 158,445
 Genre: Comedy Drama Romance
 
 
@@ -123,7 +123,7 @@ Title: A Perfect Getaway
 Year: 2009
 Duration: 108 min
 Rating: 6.5
-Votes: 51,102
+Votes: 51,114
 Genre: Adventure Mystery Thriller
 
 
@@ -131,7 +131,7 @@ Title: Argo
 Year: 2012
 Duration: 130 min
 Rating: 7.8
-Votes: 369,221
+Votes: 369,477
 Genre: Drama Thriller
 
 
@@ -139,7 +139,7 @@ Title: Atonement
 Year: 2007
 Duration: 123 min
 Rating: 7.8
-Votes: 167,820
+Votes: 167,891
 Genre: Drama Mystery Romance
 
 
@@ -147,7 +147,7 @@ Title: Battleship
 Year: 2012
 Duration: 131 min
 Rating: 5.9
-Votes: 178,772
+Votes: 178,819
 Genre: Action Adventure Sci-Fi
 
 
@@ -155,7 +155,7 @@ Title: Before Sunrise
 Year: 1995
 Duration: 105 min
 Rating: 8.1
-Votes: 145,460
+Votes: 145,548
 Genre: Drama Romance
 
 
@@ -163,7 +163,7 @@ Title: Before Sunset
 Year: 2004
 Duration: 80 min
 Rating: 8.1
-Votes: 136,511
+Votes: 136,585
 Genre: Drama Romance
 
 
@@ -171,23 +171,23 @@ Title: Black Swan
 Year: 2010
 Duration: 108 min
 Rating: 8.0
-Votes: 469,740
+Votes: 469,948
 Genre: Drama Mystery Thriller
 
 
-Title: 404 Error
-Year: 
-Duration: 
-Rating: 
-Votes: 
-Genre: 
+Title: La vie d'Adèle 
+Year: 2013
+Duration: 179 min
+Rating: 7.9
+Votes: 63,172
+Genre: Drama Romance
 
 
 Title: Blue Jasmine 
 Year: 2013
 Duration: 98 min
 Rating: 7.3
-Votes: 118,593
+Votes: 118,702
 Genre: Drama
 
 
@@ -195,7 +195,7 @@ Title: Brave
 Year: 2012
 Duration: 93 min
 Rating: 7.2
-Votes: 210,533
+Votes: 210,676
 Genre: Animation Adventure Comedy
 
 
@@ -203,7 +203,7 @@ Title: Breakfast at Tiffany's
 Year: 1961
 Duration: 115 min
 Rating: 7.8
-Votes: 103,356
+Votes: 103,402
 Genre: Comedy Drama Romance
 
 
@@ -211,7 +211,7 @@ Title: Buried
 Year: 2010
 Duration: 95 min
 Rating: 7.0
-Votes: 102,934
+Votes: 102,957
 Genre: Drama Mystery Thriller
 
 
@@ -219,7 +219,7 @@ Title: Captain Phillips
 Year: 2013
 Duration: 134 min
 Rating: 7.9
-Votes: 266,862
+Votes: 267,023
 Genre: Biography Drama Thriller
 
 
@@ -227,7 +227,7 @@ Title: Carnage
 Year: 2011
 Duration: 80 min
 Rating: 7.2
-Votes: 83,897
+Votes: 83,926
 Genre: Comedy Drama
 
 
@@ -243,7 +243,7 @@ Title: Chaos
 Year: 2005
 Duration: 106 min
 Rating: 6.5
-Votes: 38,903
+Votes: 38,912
 Genre: Action Crime Drama
 
 
@@ -267,7 +267,7 @@ Title: City of God
 Year: 2002
 Duration: 135 min
 Rating: 8.7
-Votes: 443,990
+Votes: 444,185
 Genre: Crime Drama
 
 
@@ -275,7 +275,7 @@ Title: Clash of the Titans
 Year: 2010
 Duration: 106 min
 Rating: 5.8
-Votes: 203,019
+Votes: 203,090
 Genre: Action Adventure Fantasy
 
 
@@ -283,7 +283,7 @@ Title: Cloud Atlas
 Year: 2012
 Duration: 172 min
 Rating: 7.5
-Votes: 246,629
+Votes: 246,738
 Genre: Drama Sci-Fi
 
 
@@ -291,7 +291,7 @@ Title: Cloudy with a Chance of Meatballs 2
 Year: 2013
 Duration: 95 min
 Rating: 6.5
-Votes: 47,850
+Votes: 47,889
 Genre: Animation Comedy Family
 
 
@@ -299,7 +299,7 @@ Title: Crazy, Stupid, Love.
 Year: 2011
 Duration:  118 min 
 Rating: 7.4
-Votes: 324,405
+Votes: 324,514
 Genre: Comedy Drama Romance
 
 
@@ -307,7 +307,7 @@ Title: Dallas Buyers Club
 Year: 2013
 Duration: 117 min
 Rating: 8.0
-Votes: 242,687
+Votes: 242,935
 Genre: Biography Drama
 
 
@@ -315,15 +315,15 @@ Title: Dark Shadows
 Year: 2012
 Duration: 113 min
 Rating: 6.2
-Votes: 170,106
+Votes: 170,165
 Genre: Comedy Horror
 
 
 Title: Death at a Funeral 
-Year: 2010
-Duration: 92 min
-Rating: 5.6
-Votes: 31,234
+Year: 2007
+Duration: 90 min
+Rating: 7.4
+Votes: 80,788
 Genre: Comedy
 
 
@@ -331,7 +331,7 @@ Title: Despicable Me
 Year: 2010
 Duration: 95 min
 Rating: 7.7
-Votes: 296,535
+Votes: 296,731
 Genre: Animation Comedy Family
 
 
@@ -339,7 +339,7 @@ Title: Diary of a Wimpy Kid
 Year: 2010
 Duration:  94 min 
 Rating: 6.2
-Votes: 27,360
+Votes: 27,371
 Genre: Comedy Family
 
 
@@ -347,7 +347,7 @@ Title: Django Unchained
 Year: 2012
 Duration: 165 min
 Rating: 8.5
-Votes: 716,996
+Votes: 717,522
 Genre: Western
 
 
@@ -363,7 +363,7 @@ Title: Dorian Gray
 Year: 2009
 Duration: 112 min
 Rating: 6.3
-Votes: 45,250
+Votes: 45,265
 Genre: Drama Fantasy Thriller
 
 
@@ -371,7 +371,7 @@ Title: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 Year: 1964
 Duration: 95 min
 Rating: 8.5
-Votes: 291,745
+Votes: 291,849
 Genre: Comedy War
 
 
@@ -379,7 +379,7 @@ Title: Dumb and Dumber To
 Year: 2014
 Duration: 109 min
 Rating: 6.2
-Votes: 41,646
+Votes: 41,823
 Genre: Comedy
 
 
@@ -387,7 +387,7 @@ Title: Easy A
 Year: 2010
 Duration: 92 min
 Rating: 7.1
-Votes: 221,835
+Votes: 221,961
 Genre: Comedy Romance
 
 
@@ -395,7 +395,7 @@ Title: Elysium
 Year: 2013
 Duration: 109 min
 Rating: 6.7
-Votes: 262,601
+Votes: 262,778
 Genre: Action Drama Sci-Fi
 
 
@@ -403,7 +403,7 @@ Title: Enemy at the Gates
 Year: 2001
 Duration: 131 min
 Rating: 7.6
-Votes: 159,424
+Votes: 159,495
 Genre: Drama History Romance
 
 
@@ -411,7 +411,7 @@ Title: Enough Said
 Year: 2013
 Duration: 93 min
 Rating: 7.1
-Votes: 40,833
+Votes: 40,857
 Genre: Comedy Drama Romance
 
 
@@ -419,7 +419,7 @@ Title: Epic
 Year: 2013
 Duration: 102 min
 Rating: 6.7
-Votes: 72,718
+Votes: 72,748
 Genre: Animation Adventure Family
 
 
@@ -427,7 +427,7 @@ Title: Eternal Sunshine of the Spotless Mind
 Year: 2004
 Duration: 108 min
 Rating: 8.4
-Votes: 546,486
+Votes: 546,758
 Genre: Drama Romance Sci-Fi
 
 
@@ -435,7 +435,7 @@ Title: Exam
 Year: 2009
 Duration: 101 min
 Rating: 6.9
-Votes: 49,977
+Votes: 50,002
 Genre: Mystery Thriller
 
 
@@ -451,7 +451,7 @@ Title: Flight
 Year: 2012
 Duration: 138 min
 Rating: 7.3
-Votes: 229,646
+Votes: 229,738
 Genre: Drama Thriller
 
 
@@ -459,7 +459,7 @@ Title: Forrest Gump
 Year: 1994
 Duration: 142 min
 Rating: 8.8
-Votes: 970,037
+Votes: 970,692
 Genre: Drama Romance
 
 
@@ -467,7 +467,7 @@ Title: Frozen
 Year: 2013
 Duration: 102 min
 Rating: 7.7
-Votes: 312,462
+Votes: 312,754
 Genre: Animation Adventure Comedy
 
 
@@ -475,7 +475,7 @@ Title: Gangster Squad
 Year: 2013
 Duration: 113 min
 Rating: 6.8
-Votes: 153,451
+Votes: 153,496
 Genre: Action Crime Drama
 
 
@@ -491,7 +491,7 @@ Title: Good Will Hunting
 Year: 1997
 Duration: 126 min
 Rating: 8.3
-Votes: 489,589
+Votes: 489,855
 Genre: Drama
 
 
@@ -499,7 +499,7 @@ Title: Gran Torino
 Year: 2008
 Duration: 116 min
 Rating: 8.2
-Votes: 465,991
+Votes: 466,212
 Genre: Drama
 
 
@@ -507,7 +507,7 @@ Title: Gravity
 Year: 2013
 Duration: 91 min
 Rating: 8.0
-Votes: 469,390
+Votes: 469,690
 Genre: Sci-Fi Thriller
 
 
@@ -515,7 +515,7 @@ Title: Great Expectations
 Year: 2012
 Duration: 128 min
 Rating: 6.4
-Votes: 7,285
+Votes: 7,290
 Genre: Drama Romance
 
 
@@ -523,7 +523,7 @@ Title: Hansel &amp; Gretel: Witch Hunters
 Year: 2013
 Duration: 98 min
 Rating: 6.1
-Votes: 134,960
+Votes: 135,021
 Genre: Action Fantasy Horror
 
 
@@ -531,7 +531,7 @@ Title: Hotel Transylvania
 Year: 2012
 Duration: 91 min
 Rating: 7.1
-Votes: 120,042
+Votes: 120,092
 Genre: Animation Comedy Family
 
 
@@ -539,7 +539,7 @@ Title: How to Lose Friends &amp; Alienate People
 Year: 2008
 Duration: 110 min
 Rating: 6.5
-Votes: 57,068
+Votes: 57,071
 Genre: Comedy Drama Romance
 
 
@@ -547,7 +547,7 @@ Title: Ice Age: Continental Drift
 Year: 2012
 Duration: 88 min
 Rating: 6.7
-Votes: 115,529
+Votes: 115,588
 Genre: Animation Adventure Comedy
 
 
@@ -555,7 +555,7 @@ Title: In Bruges
 Year: 2008
 Duration: 107 min
 Rating: 8.0
-Votes: 267,398
+Votes: 267,469
 Genre: Comedy Crime Drama
 
 
@@ -563,7 +563,7 @@ Title: Inception
 Year: 2010
 Duration: 148 min
 Rating: 8.8
-Votes: 1,146,569
+Votes: 1,147,290
 Genre: Action Mystery Sci-Fi
 
 
@@ -571,7 +571,7 @@ Title: Inglourious Basterds
 Year: 2009
 Duration: 153 min
 Rating: 8.3
-Votes: 678,932
+Votes: 679,404
 Genre: Adventure Drama War
 
 
@@ -579,7 +579,7 @@ Title: Inside Job
 Year: 2010
 Duration: 105 min
 Rating: 8.3
-Votes: 47,281
+Votes: 47,297
 Genre: Documentary Crime
 
 
@@ -595,7 +595,7 @@ Title: Into the Wild
 Year: 2007
 Duration: 148 min
 Rating: 8.2
-Votes: 343,404
+Votes: 343,607
 Genre: Adventure Biography Drama
 
 
@@ -603,7 +603,7 @@ Title: Iron Man
 Year: 2008
 Duration: 126 min
 Rating: 7.9
-Votes: 551,678
+Votes: 551,948
 Genre: Action Adventure Sci-Fi
 
 
@@ -611,7 +611,7 @@ Title: Jack the Giant Slayer
 Year: 2013
 Duration: 114 min
 Rating: 6.3
-Votes: 91,123
+Votes: 91,157
 Genre: Adventure Fantasy
 
 
@@ -619,23 +619,23 @@ Title: Jane Eyre
 Year: 2011
 Duration: 120 min
 Rating: 7.4
-Votes: 51,800
+Votes: 51,836
 Genre: Drama Romance
 
 
-Title: jOBS 
-Year: 2013
-Duration: 128 min
-Rating: 5.9
-Votes: 61,952
-Genre: Biography Drama
+Title: Steve Jobs 
+Year: 2016
+Duration: 
+Rating: 
+Votes: 
+Genre: Biography
 
 
 Title: Johnny English Reborn 
 Year: 2011
 Duration: 101 min
 Rating: 6.3
-Votes: 77,432
+Votes: 77,478
 Genre: Action Adventure Comedy
 
 
@@ -651,7 +651,7 @@ Title: Kick-Ass 2
 Year: 2013
 Duration: 103 min
 Rating: 6.7
-Votes: 159,450
+Votes: 159,563
 Genre: Action Comedy Crime
 
 
@@ -659,7 +659,7 @@ Title: Kingdom of Heaven
 Year: 2005
 Duration: 194 min
 Rating: 7.2
-Votes: 186,720
+Votes: 186,803
 Genre: Action Adventure Drama
 
 
@@ -667,7 +667,7 @@ Title: Kiss Kiss Bang Bang
 Year: 2005
 Duration: 103 min
 Rating: 7.7
-Votes: 154,835
+Votes: 154,885
 Genre: Action Comedy Crime
 
 
@@ -675,7 +675,7 @@ Title: L.A. Confidential
 Year: 1997
 Duration: 138 min
 Rating: 8.3
-Votes: 355,596
+Votes: 355,715
 Genre: Crime Drama Mystery
 
 
@@ -683,7 +683,7 @@ Title: Last Vegas
 Year: 2013
 Duration: 105 min
 Rating: 6.7
-Votes: 88,375
+Votes: 88,428
 Genre: Comedy
 
 
@@ -691,7 +691,7 @@ Title: Léon
 Year: 1994
 Duration: 133 min
 Rating: 8.6
-Votes: 583,458
+Votes: 583,784
 Genre: Crime Drama Thriller
 
 
@@ -699,7 +699,7 @@ Title: Les Misérables
 Year: 2012
 Duration: 158 min
 Rating: 7.7
-Votes: 206,970
+Votes: 207,061
 Genre: Drama Musical Romance
 
 
@@ -707,7 +707,7 @@ Title: Life of Pi
 Year: 2012
 Duration: 127 min
 Rating: 8.0
-Votes: 350,725
+Votes: 350,934
 Genre: Adventure Drama
 
 
@@ -715,7 +715,7 @@ Title: Lincoln
 Year: 2012
 Duration: 150 min
 Rating: 7.4
-Votes: 170,558
+Votes: 170,642
 Genre: Biography Drama History
 
 
@@ -731,7 +731,7 @@ Title: Little Children
 Year: 2006
 Duration: 137 min
 Rating: 7.6
-Votes: 86,311
+Votes: 86,324
 Genre: Drama Romance
 
 
@@ -739,7 +739,7 @@ Title: Lock, Stock and Two Smoking Barrels
 Year: 1998
 Duration: 120 min
 Rating: 8.2
-Votes: 347,209
+Votes: 347,367
 Genre: Comedy Crime
 
 
@@ -747,7 +747,7 @@ Title: Love Actually
 Year: 2003
 Duration: 129 min
 Rating: 7.7
-Votes: 276,603
+Votes: 276,693
 Genre: Comedy Drama Romance
 
 
@@ -755,7 +755,7 @@ Title: Madagascar 3: Europe's Most Wanted
 Year: 2012
 Duration:  93 min 
 Rating: 7.0
-Votes: 96,241
+Votes: 96,294
 Genre: Animation Adventure Comedy
 
 
@@ -763,7 +763,7 @@ Title: Man of Steel
 Year: 2013
 Duration: 143 min
 Rating: 7.3
-Votes: 442,828
+Votes: 443,004
 Genre: Action Adventure Fantasy
 
 
@@ -771,7 +771,7 @@ Title: Man on Fire
 Year: 2004
 Duration: 146 min
 Rating: 7.8
-Votes: 232,024
+Votes: 232,106
 Genre: Action Drama Thriller
 
 
@@ -779,7 +779,7 @@ Title: Matchstick Men
 Year: 2003
 Duration: 120 min
 Rating: 7.3
-Votes: 95,709
+Votes: 95,728
 Genre: Comedy Crime Drama
 
 
@@ -787,7 +787,7 @@ Title: Meet the Parents
 Year: 2000
 Duration: 108 min
 Rating: 7.0
-Votes: 229,183
+Votes: 229,268
 Genre: Comedy Romance
 
 
@@ -795,7 +795,7 @@ Title: Melancholia
 Year: 2011
 Duration: 130 min
 Rating: 7.1
-Votes: 108,409
+Votes: 108,452
 Genre: Drama Sci-Fi
 
 
@@ -803,7 +803,7 @@ Title: Men in Black 3
 Year: 2012
 Duration:  106 min 
 Rating: 6.9
-Votes: 220,988
+Votes: 221,091
 Genre: Action Comedy Sci-Fi
 
 
@@ -811,7 +811,7 @@ Title: Midnight in Paris
 Year: 2011
 Duration:  94 min 
 Rating: 7.7
-Votes: 256,080
+Votes: 256,190
 Genre: Comedy Romance
 
 
@@ -819,7 +819,7 @@ Title: Million Dollar Baby
 Year: 2004
 Duration: 132 min
 Rating: 8.1
-Votes: 389,788
+Votes: 390,003
 Genre: Drama Sport
 
 
@@ -827,7 +827,7 @@ Title: Minority Report
 Year: 2002
 Duration: 145 min
 Rating: 7.7
-Votes: 345,561
+Votes: 345,682
 Genre: Action Mystery Sci-Fi
 
 
@@ -835,7 +835,7 @@ Title: Moneyball
 Year: 2011
 Duration: 133 min
 Rating: 7.6
-Votes: 250,644
+Votes: 250,717
 Genre: Biography Drama Sport
 
 
@@ -843,7 +843,7 @@ Title: Monsters University
 Year: 2013
 Duration: 104 min
 Rating: 7.4
-Votes: 179,564
+Votes: 179,683
 Genre: Animation Adventure Comedy
 
 
@@ -851,7 +851,7 @@ Title: Moonrise Kingdom
 Year: 2012
 Duration: 94 min
 Rating: 7.8
-Votes: 197,767
+Votes: 197,861
 Genre: Adventure Comedy Drama
 
 
@@ -875,7 +875,7 @@ Title: Mud
 Year: 2012
 Duration: 130 min
 Rating: 7.5
-Votes: 108,745
+Votes: 108,819
 Genre: Drama
 
 
@@ -883,7 +883,7 @@ Title: Mystic River
 Year: 2003
 Duration: 138 min
 Rating: 8.0
-Votes: 300,683
+Votes: 300,759
 Genre: Crime Drama Mystery
 
 
@@ -891,23 +891,23 @@ Title: Never Let Me Go
 Year: 2010
 Duration: 103 min
 Rating: 7.2
-Votes: 93,528
+Votes: 93,571
 Genre: Drama Romance Sci-Fi
 
 
-Title: The Boy Next Door 
-Year: 2015
-Duration: 91 min
-Rating: 4.6
-Votes: 2,016
-Genre: Thriller
+Title: Next 
+Year: 2007
+Duration: 96 min
+Rating: 6.2
+Votes: 110,149
+Genre: Action Sci-Fi Thriller
 
 
 Title: Now You See Me 
 Year: 2013
 Duration: 125 min
 Rating: 7.3
-Votes: 353,134
+Votes: 353,305
 Genre: Crime Mystery Thriller
 
 
@@ -915,7 +915,7 @@ Title: Oblivion
 Year: 2013
 Duration: 124 min
 Rating: 7.0
-Votes: 307,857
+Votes: 308,027
 Genre: Action Adventure Mystery
 
 
@@ -923,7 +923,7 @@ Title: October Sky
 Year: 1999
 Duration: 108 min
 Rating: 7.8
-Votes: 56,845
+Votes: 56,862
 Genre: Biography Drama Family
 
 
@@ -931,7 +931,7 @@ Title: Oliver Twist
 Year: 2005
 Duration: 130 min
 Rating: 6.9
-Votes: 22,840
+Votes: 22,846
 Genre: Crime Drama
 
 
@@ -939,7 +939,7 @@ Title: Once Upon a Time in the West
 Year: 1968
 Duration: 137 min
 Rating: 8.6
-Votes: 179,195
+Votes: 179,271
 Genre: Western
 
 
@@ -947,7 +947,7 @@ Title: One Flew Over the Cuckoo's Nest
 Year: 1975
 Duration: 133 min
 Rating: 8.7
-Votes: 563,815
+Votes: 564,108
 Genre: Drama
 
 
@@ -955,7 +955,7 @@ Title: ParaNorman
 Year: 2012
 Duration: 92 min
 Rating: 7.0
-Votes: 62,328
+Votes: 62,368
 Genre: Animation Adventure Comedy
 
 
@@ -963,7 +963,7 @@ Title: Perfume: The Story of a Murderer
 Year: 2006
 Duration: 147 min
 Rating: 7.5
-Votes: 167,224
+Votes: 167,279
 Genre: Crime Drama Fantasy
 
 
@@ -971,7 +971,7 @@ Title: Pirates of Silicon Valley
 Year: TV Movie 1999
 Duration: 95 min
 Rating: 7.2
-Votes: 17,926
+Votes: 17,930
 Genre: Biography Drama
 
 
@@ -987,7 +987,7 @@ Title: Primal Fear
 Year: 1996
 Duration: 129 min
 Rating: 7.7
-Votes: 112,486
+Votes: 112,513
 Genre: Crime Drama Mystery
 
 
@@ -995,7 +995,7 @@ Title: Prisoners
 Year: 2013
 Duration: 153 min
 Rating: 8.1
-Votes: 270,939
+Votes: 271,177
 Genre: Crime Drama Thriller
 
 
@@ -1003,7 +1003,7 @@ Title: Prometheus
 Year: 2012
 Duration: 124 min
 Rating: 7.0
-Votes: 393,524
+Votes: 393,667
 Genre: Adventure Mystery Sci-Fi
 
 
@@ -1011,7 +1011,7 @@ Title: Psycho
 Year: 1960
 Duration: 108 min
 Rating: 8.6
-Votes: 343,535
+Votes: 343,715
 Genre: Horror Mystery Thriller
 
 
@@ -1019,7 +1019,7 @@ Title: Pulp Fiction
 Year: 1994
 Duration: 168 min
 Rating: 8.9
-Votes: 1,069,675
+Votes: 1,070,267
 Genre: Crime Drama Thriller
 
 
@@ -1027,7 +1027,7 @@ Title: Rango
 Year: 2011
 Duration: 107 min
 Rating: 7.3
-Votes: 154,050
+Votes: 154,117
 Genre: Animation Adventure Comedy
 
 
@@ -1035,7 +1035,7 @@ Title: Rear Window
 Year: 1954
 Duration: 112 min
 Rating: 8.6
-Votes: 261,078
+Votes: 261,196
 Genre: Mystery Thriller
 
 
@@ -1043,7 +1043,7 @@ Title: Reservoir Dogs
 Year: 1992
 Duration: 99 min
 Rating: 8.4
-Votes: 530,352
+Votes: 530,635
 Genre: Crime Drama
 
 
@@ -1051,7 +1051,7 @@ Title: Rio
 Year: 2011
 Duration: 96 min
 Rating: 7.0
-Votes: 138,841
+Votes: 138,890
 Genre: Animation Adventure Comedy
 
 
@@ -1059,7 +1059,7 @@ Title: Rise of the Guardians
 Year: 2012
 Duration: 97 min
 Rating: 7.3
-Votes: 101,170
+Votes: 101,228
 Genre: Animation Adventure Family
 
 
@@ -1067,7 +1067,7 @@ Title: Road to Perdition
 Year: 2002
 Duration: 117 min
 Rating: 7.7
-Votes: 178,712
+Votes: 178,753
 Genre: Crime Drama Thriller
 
 
@@ -1075,7 +1075,7 @@ Title: Roman Holiday
 Year: 1953
 Duration: 117 min
 Rating: 8.1
-Votes: 80,676
+Votes: 80,712
 Genre: Comedy Drama Romance
 
 
@@ -1083,7 +1083,7 @@ Title: Rush
 Year: 2013
 Duration: 123 min
 Rating: 8.2
-Votes: 223,319
+Votes: 223,540
 Genre: Action Biography Drama
 
 
@@ -1091,7 +1091,7 @@ Title: Saving Private Ryan
 Year: 1998
 Duration: 169 min
 Rating: 8.6
-Votes: 703,678
+Votes: 704,076
 Genre: Action Drama War
 
 
@@ -1099,7 +1099,7 @@ Title: Scarface
 Year: 1983
 Duration: 170 min
 Rating: 8.3
-Votes: 438,002
+Votes: 438,249
 Genre: Crime Drama
 
 
@@ -1107,23 +1107,23 @@ Title: Schindler's List
 Year: 1993
 Duration: 185 min
 Rating: 8.9
-Votes: 699,950
+Votes: 700,359
 Genre: Biography Drama History
 
 
-Title: 404 Error
-Year: 
-Duration: 
-Rating: 
-Votes: 
-Genre: 
+Title: Se7en 
+Year: 1995
+Duration: 127 min
+Rating: 8.7
+Votes: 817,480
+Genre: Drama Mystery Thriller
 
 
 Title: Season of the Witch 
 Year: 2011
 Duration: 95 min
 Rating: 5.4
-Votes: 67,719
+Votes: 67,739
 Genre: Action Adventure Fantasy
 
 
@@ -1131,7 +1131,7 @@ Title: Seven Psychopaths
 Year: 2012
 Duration: 110 min
 Rating: 7.2
-Votes: 156,948
+Votes: 157,014
 Genre: Comedy Crime
 
 
@@ -1139,7 +1139,7 @@ Title: Side Effects
 Year: 2013
 Duration: 106 min
 Rating: 7.1
-Votes: 128,253
+Votes: 128,291
 Genre: Crime Drama Thriller
 
 
@@ -1147,7 +1147,7 @@ Title: Silver Linings Playbook
 Year: 2012
 Duration: 122 min
 Rating: 7.9
-Votes: 437,878
+Votes: 438,136
 Genre: Comedy Drama Romance
 
 
@@ -1155,7 +1155,7 @@ Title: Sin City
 Year: 2005
 Duration: 147 min
 Rating: 8.1
-Votes: 559,475
+Votes: 559,726
 Genre: Crime Thriller
 
 
@@ -1163,7 +1163,7 @@ Title: Sinister
 Year: 2012
 Duration: 110 min
 Rating: 6.8
-Votes: 111,280
+Votes: 111,346
 Genre: Horror Mystery Thriller
 
 
@@ -1171,7 +1171,7 @@ Title: Snow White and the Huntsman
 Year: 2012
 Duration: 132 min
 Rating: 6.2
-Votes: 195,760
+Votes: 195,812
 Genre: Action Drama Fantasy
 
 
@@ -1187,7 +1187,7 @@ Title: Stand Up Guys
 Year: 2012
 Duration:  95 min 
 Rating: 6.5
-Votes: 39,218
+Votes: 39,236
 Genre: Comedy Crime Thriller
 
 
@@ -1195,7 +1195,7 @@ Title: Star Trek Into Darkness
 Year: 2013
 Duration: 132 min
 Rating: 7.8
-Votes: 332,317
+Votes: 332,470
 Genre: Action Adventure Sci-Fi
 
 
@@ -1227,7 +1227,7 @@ Title: Ted
 Year: 2012
 Duration: 112 min
 Rating: 7.0
-Votes: 386,603
+Votes: 386,858
 Genre: Comedy Fantasy
 
 
@@ -1235,7 +1235,7 @@ Title: The Avengers
 Year: 2012
 Duration: 143 min
 Rating: 8.2
-Votes: 769,661
+Votes: 770,064
 Genre: Action Adventure Sci-Fi
 
 
@@ -1243,7 +1243,7 @@ Title: The Bourne Legacy
 Year: 2012
 Duration: 135 min
 Rating: 6.7
-Votes: 193,446
+Votes: 193,522
 Genre: Action Adventure Mystery
 
 
@@ -1251,7 +1251,7 @@ Title: The Boy in the Striped Pyjamas
 Year: 2008
 Duration: 94 min
 Rating: 7.8
-Votes: 104,765
+Votes: 104,833
 Genre: Drama War
 
 
@@ -1259,7 +1259,7 @@ Title: The Broken Circle Breakdown
 Year: 2012
 Duration: 111 min
 Rating: 7.8
-Votes: 22,186
+Votes: 22,206
 Genre: Drama Music Romance
 
 
@@ -1267,7 +1267,7 @@ Title: The Bucket List
 Year: 2007
 Duration: 97 min
 Rating: 7.4
-Votes: 160,214
+Votes: 160,270
 Genre: Adventure Comedy Drama
 
 
@@ -1275,7 +1275,7 @@ Title: The Conjuring
 Year: 2013
 Duration: 112 min
 Rating: 7.5
-Votes: 226,381
+Votes: 226,521
 Genre: Horror
 
 
@@ -1283,7 +1283,7 @@ Title: The Croods
 Year: 2013
 Duration: 98 min
 Rating: 7.3
-Votes: 120,520
+Votes: 120,580
 Genre: Animation Adventure Comedy
 
 
@@ -1291,7 +1291,7 @@ Title: The Curious Case of Benjamin Button
 Year: 2008
 Duration: 166 min
 Rating: 7.8
-Votes: 386,142
+Votes: 386,320
 Genre: Drama Fantasy Romance
 
 
@@ -1299,7 +1299,7 @@ Title: The Family
 Year: 2013
 Duration: 111 min
 Rating: 6.3
-Votes: 72,216
+Votes: 72,246
 Genre: Comedy Crime Thriller
 
 
@@ -1307,7 +1307,7 @@ Title: The Fast and the Furious
 Year: 2001
 Duration: 106 min
 Rating: 6.6
-Votes: 216,644
+Votes: 216,729
 Genre: Action Crime Thriller
 
 
@@ -1315,7 +1315,7 @@ Title: The Fifth Estate
 Year: 2013
 Duration: 128 min
 Rating: 6.1
-Votes: 21,760
+Votes: 21,777
 Genre: Biography Drama Thriller
 
 
@@ -1323,7 +1323,7 @@ Title: The Fighter
 Year: 2010
 Duration: 116 min
 Rating: 7.9
-Votes: 233,214
+Votes: 233,344
 Genre: Biography Drama Sport
 
 
@@ -1331,7 +1331,7 @@ Title: The Godfather
 Year: 1972
 Duration: 175 min
 Rating: 9.2
-Votes: 951,794
+Votes: 952,252
 Genre: Crime Drama
 
 
@@ -1339,7 +1339,7 @@ Title: The Godfather: Part II
 Year: 1974
 Duration: 220 min
 Rating: 9.1
-Votes: 636,765
+Votes: 637,109
 Genre: Crime Drama
 
 
@@ -1347,7 +1347,7 @@ Title: Il buono, il brutto, il cattivo.
 Year: 1966
 Duration: 142 min
 Rating: 8.9
-Votes: 415,554
+Votes: 415,763
 Genre: Western
 
 
@@ -1355,7 +1355,7 @@ Title: The Grey
 Year: 2011
 Duration: 117 min
 Rating: 6.8
-Votes: 179,440
+Votes: 179,507
 Genre: Adventure Drama Thriller
 
 
@@ -1363,7 +1363,7 @@ Title: The Hobbit: An Unexpected Journey
 Year: 2012
 Duration: 182 min
 Rating: 8.0
-Votes: 530,977
+Votes: 531,249
 Genre: Adventure Fantasy
 
 
@@ -1371,7 +1371,7 @@ Title: The Holiday
 Year: 2006
 Duration: 138 min
 Rating: 6.9
-Votes: 156,502
+Votes: 156,563
 Genre: Comedy Romance
 
 
@@ -1379,7 +1379,7 @@ Title: The Hunger Games
 Year: 2012
 Duration: 142 min
 Rating: 7.3
-Votes: 580,327
+Votes: 580,576
 Genre: Adventure Sci-Fi
 
 
@@ -1387,7 +1387,7 @@ Title: The Hunger Games: Catching Fire
 Year: 2013
 Duration: 146 min
 Rating: 7.7
-Votes: 390,290
+Votes: 390,531
 Genre: Adventure Sci-Fi
 
 
@@ -1395,7 +1395,7 @@ Title: The Illusionist
 Year: 2006
 Duration: 110 min
 Rating: 7.6
-Votes: 252,493
+Votes: 252,594
 Genre: Drama Mystery Romance
 
 
@@ -1403,7 +1403,7 @@ Title: Lo imposible
 Year: 2012
 Duration: 114 min
 Rating: 7.6
-Votes: 124,066
+Votes: 124,109
 Genre: Drama Thriller
 
 
@@ -1411,7 +1411,7 @@ Title: The Internship
 Year: 2013
 Duration: 125 min
 Rating: 6.3
-Votes: 133,496
+Votes: 133,550
 Genre: Comedy
 
 
@@ -1419,7 +1419,7 @@ Title: The King's Speech
 Year: 2010
 Duration: 118 min
 Rating: 8.1
-Votes: 391,954
+Votes: 392,220
 Genre: Biography Drama History
 
 
@@ -1427,7 +1427,7 @@ Title: The Lincoln Lawyer
 Year: 2011
 Duration: 118 min
 Rating: 7.3
-Votes: 153,704
+Votes: 153,777
 Genre: Crime Drama Thriller
 
 
@@ -1435,7 +1435,7 @@ Title: The Lives of Others
 Year: 2006
 Duration: 137 min
 Rating: 8.5
-Votes: 213,952
+Votes: 214,055
 Genre: Drama Thriller
 
 
@@ -1443,7 +1443,7 @@ Title: The Lone Ranger
 Year: 2013
 Duration: 149 min
 Rating: 6.5
-Votes: 154,266
+Votes: 154,321
 Genre: Action Adventure Western
 
 
@@ -1451,7 +1451,7 @@ Title: The Lorax
 Year: 2012
 Duration: 86 min
 Rating: 6.5
-Votes: 67,854
+Votes: 67,874
 Genre: Animation Comedy Family
 
 
@@ -1459,7 +1459,7 @@ Title: The Lord of the Rings
 Year: 1978
 Duration: 132 min
 Rating: 6.1
-Votes: 22,049
+Votes: 22,051
 Genre: Animation Adventure Drama
 
 
@@ -1467,7 +1467,7 @@ Title: The Machinist
 Year: 2004
 Duration: 94 min
 Rating: 7.7
-Votes: 241,037
+Votes: 241,135
 Genre: Drama Thriller
 
 
@@ -1475,7 +1475,7 @@ Title: The Number 23
 Year: 2007
 Duration: 98 min
 Rating: 6.4
-Votes: 148,237
+Votes: 148,275
 Genre: Mystery Thriller
 
 
@@ -1483,7 +1483,7 @@ Title: The Painted Veil
 Year: 2006
 Duration:  125 min 
 Rating: 7.5
-Votes: 70,814
+Votes: 70,830
 Genre: Drama Romance
 
 
@@ -1491,7 +1491,7 @@ Title: The Perks of Being a Wallflower
 Year: 2012
 Duration: 102 min
 Rating: 8.1
-Votes: 283,077
+Votes: 283,212
 Genre: Drama Romance
 
 
@@ -1499,7 +1499,7 @@ Title: The Pursuit of Happyness
 Year: 2006
 Duration: 117 min
 Rating: 7.9
-Votes: 283,697
+Votes: 283,818
 Genre: Biography Drama
 
 
@@ -1507,7 +1507,7 @@ Title: The Reader
 Year: 2008
 Duration: 124 min
 Rating: 7.6
-Votes: 166,952
+Votes: 166,995
 Genre: Drama Romance
 
 
@@ -1515,7 +1515,7 @@ Title: There Will Be Blood
 Year: 2007
 Duration: 158 min
 Rating: 8.1
-Votes: 308,468
+Votes: 308,608
 Genre: Drama
 
 
